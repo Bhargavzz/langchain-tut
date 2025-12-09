@@ -16,3 +16,9 @@ faiss-cpu
 sentence-transformers
 huggingface-hub
 langchain-classic
+wikipedia
+arxiv
+langchainhub
+langchain-ollama
+groq
+langchain-groq
